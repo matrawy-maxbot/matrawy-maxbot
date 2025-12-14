@@ -51,6 +51,6 @@ Large-scale gaming ecosystem with esports tournaments, marketplace, rewards econ
 
 I am open to **remote senior full-stack roles**, long-term contracts, and product-focused teams.
 
-📫 Email: [mhmd.elkhodari@gmail.com](mailto:mhmd.elkhodari@gmail.com)
-🌐 Portfolio: [https://mohammed-elkhodari-portfolio.vercel.app/](https://mohammed-elkhodari-portfolio.vercel.app/)
-💼 LinkedIn: linkedin.com/in/mohammed-saeed-710b03250
+- 📫 Email: [mhmd.elkhodari@gmail.com](mailto:mhmd.elkhodari@gmail.com)
+- 🌐 Portfolio: [https://mohammed-elkhodari-portfolio.vercel.app/](https://mohammed-elkhodari-portfolio.vercel.app/)
+- 💼 LinkedIn: linkedin.com/in/mohammed-saeed-710b03250
